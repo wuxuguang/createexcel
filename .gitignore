@@ -1,5 +1,6 @@
 *.class
 .idea/
+.mvn/
 # Package Files #
 *.jar
 *.war
